@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e3f2fd</color>
+    <color name="colorPrimaryDark">#2196f3</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBackground">#f9fbe7</color>
+    <color name="colorWeekend">#ffcdd2</color>
+    <color name="colorCircle">#e57373</color>
+    <color name="colorBackgroundDays">#ef9a9a</color>
+</resources>
